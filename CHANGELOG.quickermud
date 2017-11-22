@@ -1,0 +1,12 @@
+-Removed all areas except the barebones necessary ones.
+-Removed ALL of the Dungeons and Dragons-esque stuff.
+This includes magic (and magic items), classes, races,
+skills (and groups), and fighting. Probably more.
+Also gone are several magic items such as staves, pills,
+potions, etcetera.
+-The existing do_who command was removed as I didn't
+feel like modifying it to work.
+-I imagine there are quite a few bugs laying around
+as a result of this. It's not really a complete modification,
+but it might save you a day or two of work if you want
+to implement your own system.

@@ -1,0 +1,4 @@
+[    2] Fleft: color
+[    2] Fleft: ansi
+[    2] Fleft: colour
+[    2] Fleft: colour2
